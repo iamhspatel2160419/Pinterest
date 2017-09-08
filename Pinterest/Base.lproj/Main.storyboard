@@ -13,7 +13,7 @@
         <scene sceneID="w9Z-e6-fHi">
             <objects>
                 <collectionViewController id="izM-Ll-n7M" customClass="NewsfeedCollectionViewController" customModule="Pinterest" customModuleProvider="target" sceneMemberID="viewController">
-                    <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" id="G81-wq-Kyt">
+                    <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" id="G81-wq-Kyt">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="0.88739691840277779" alpha="1" colorSpace="calibratedWhite"/>
